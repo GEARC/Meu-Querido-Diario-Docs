@@ -1,0 +1,29 @@
+name: Deploy MkDocs to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Executa o workflow quando houver push na branch main
+
+permissions:
+  contents: write  # Permite escrever no branch gh-pages
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependências
+        run: |
+          pip install mkdocs mkdocs-material mkdocstrings pymdown-extensions
+
+      - name: Publicar com MkDocs
+        run: mkdocs gh-deploy --force
