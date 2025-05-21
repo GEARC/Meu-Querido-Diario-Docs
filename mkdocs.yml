@@ -5,8 +5,8 @@ site_author: FUNPRESP-JUD - GEARC
 theme:
   name: material
   language: pt-BR
-  logo: assets/logo-semfundo.png
-  favicon: assets/favicon.ico
+  logo: docs/assets/logo-semfundo.png
+  favicon: docs/assets/favicon.ico
   palette:
     - scheme: default
       primary: gray
