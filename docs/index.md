@@ -65,10 +65,10 @@ O sistema é destinado aos colaboradores da FUNPRESP-JUD, especialmente à equip
 
 ## Desenvolvedores do Projeto
 
-| Nome              | Função                              | Perfil no Github                        |
-|-------------------|-------------------------------------|-----------------------------------------|
-| Giovani Rocha     | Supervisor do Projeto / Gerente     | --                                      |
-| André Machado     | Supervisor do Projeto / Supervisor  | --                                      |
-| Marcos Marinho    | Desenvolvedor / Estagiário          | [devMarcosVM](https://github.com/devMarcosVM) |
-| Marcelo Sampaio   | Desenvolvedor / Estagiário          | [marceloverass](https://github.com/marceloverass) |
-| Gabriel Delmondes | Desenvolvedor / Estagiário          | [gabrieldelmondess](https://github.com/gabrieldelmondess) |
+| Nome              | Função                              | Perfil no Github                        | Perfil do LinkedIn |
+|-------------------|-------------------------------------|-----------------------------------------|----------------------------------------|
+| Giovani Rocha     | Supervisor do Projeto / Gerente     | --                                      |[Giovani Rocha](https://br.linkedin.com/in/giovani-alves-da-rocha-4ab34b25)|
+| André Machado     | Supervisor do Projeto / Supervisor  | --                                      |[André Machado](https://www.linkedin.com/in/andr%C3%A9-carvalho-machado-10b40068/?originalSubdomain=br)|
+| Marcos Marinho    | Desenvolvedor / Estagiário          | [devMarcosVM](https://github.com/devMarcosVM) |[Marcos Marinho](https://www.linkedin.com/in/marcos-vieira-marinho/?originalSubdomain=br) |
+| Marcelo Veras   | Desenvolvedor / Estagiário          | [marceloverass](https://github.com/marceloverass) |[Marcelo Veras](https://www.linkedin.com/in/marceloveras/?originalSubdomain=br)|
+| Gabriel Delmondes | Desenvolvedor / Estagiário          | [gabrieldelmondess](https://github.com/gabrieldelmondess) |[Gabriel Delmondes](https://www.linkedin.com/in/gabriel-%C3%A2ngelo-delmondes-de-lima-b91541219/?originalSubdomain=br)|
