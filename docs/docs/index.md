@@ -65,10 +65,10 @@ O sistema é destinado aos colaboradores da FUNPRESP-JUD, especialmente à equip
 
 ## Desenvolvedores do Projeto
 
-|Nome | Função |git-hub |Atividade|
-| --- | --- | --- | --- |
-|Giovani Rocha |Supervisor do Projeto / Gerente | -- |Ativo|
-|André Machado| Supervisor do Projeto / Supervisor | -- |Ativo| 
-|Marcos Marinho |Desenvolvedor / Estagiário| -- | Ativo|
-|Marcelo Sampaio |Desenvolvedor / Estagiário| -- | Ativo|
-|Gabriel Delmondes|Desenvolvedor / Estagiário| -- | Inativo|
+|Nome | Função |Perfil no Github|
+| --- | --- | --- |
+|Giovani Rocha |Supervisor do Projeto / Gerente | -- |
+|André Machado| Supervisor do Projeto / Supervisor | -- |
+|Marcos Marinho |Desenvolvedor / Estagiário| https://github.com/devMarcosVM |
+|Marcelo Sampaio |Desenvolvedor / Estagiário| github.com/marceloverass|
+|Gabriel Delmondes|Desenvolvedor / Estagiário| github.com/gabrieldelmondess |
